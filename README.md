@@ -15,7 +15,7 @@ Once you have installed Python, you can start learning the basics of the languag
 # Learning resources
 Here are some resources that can help you learn Python:
 
-## Python Documentation - The official Python documentation is a great resource for learning Python. It provides a comprehensive guide to the language, including tutorials, reference guides, and more.
+Python Documentation - The official Python documentation is a great resource for learning Python. It provides a comprehensive guide to the language, including tutorials, reference guides, and more.
 
 Python for Everybody - Python for Everybody is an online course that is designed to teach Python programming to beginners. The course covers the basics of Python programming, including variables, data types, functions, and more.
 
